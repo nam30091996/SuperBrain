@@ -2,10 +2,11 @@
     <string name="app_name">SuperBrain</string>
     <string name="slogan">Increase your brain power and compete against players from around the world!
         Experience the heated battle that will keep you on your toes! </string>
-    <string name="SignUp">Sign Up</string>
-    <string name="SignIn">Sign In</string>
+
     <string name="viewSlogan">ViewSlogan</string>
     <string name="logo">Logo</string>
+    <string name="team">TeamThayHung\n\n Nguyễn Phương Nam \n Nguyễn Trọng Hải \n Đặng Quốc Hùng</string>
+    <string name="thanks">Specials Thanks to \n Google\n AND YOU!</string>
 
 
 </resources>

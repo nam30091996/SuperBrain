@@ -6,7 +6,10 @@
 
     <color name="btnSignUp">#E43F3F</color>
     <color name="btnSignIn">#35DBF8</color>
+    <color name="btnAtHome">#CCCCFF</color>
 
-
+    <color name="colorBtnBackground">#FAFAFA</color>
+    <color name="colorBtnBorder">#EFF0F2</color>
+    <color name="colorBackground">#EEEEEE</color>
 
 </resources>

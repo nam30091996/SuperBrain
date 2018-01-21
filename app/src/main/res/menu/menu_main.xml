@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Bottombaritemone"
+        android:icon="@drawable/ic_home"
+        android:title="Home">
+    </item>
+
+    <item
+        android:id="@+id/Bottombaritemtwo"
+        android:icon="@drawable/ic_ranking"
+        android:title="Ranking">
+    </item>
+
+    <item
+        android:id="@+id/Bottombaritemthree"
+        android:icon="@drawable/ic_training"
+        android:title="Training">
+    </item>
+
+    <item
+        android:id="@+id/Bottombaritemfour"
+        android:icon="@drawable/ic_rating"
+        android:title="Credits">
+    </item>
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1077212013960",
+    "firebase_url": "https://superbrain-70ae1.firebaseio.com",
+    "project_id": "superbrain-70ae1",
+    "storage_bucket": "superbrain-70ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077212013960:android:efe594a456159fbb",
+        "android_client_info": {
+          "package_name": "com.teamthayhung.superbrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077212013960-oll6nob8s0faghe1plvf7omsq8e7ehn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamthayhung.superbrain",
+            "certificate_hash": "b386306e36ac72eedf87553dc94ab4972bd46578"
+          }
+        },
+        {
+          "client_id": "1077212013960-enbj73skaed2lsu40gonmj1dgdgu5o0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZfbmlwl6XdCyWEPlDmJz78U0BXAZklWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077212013960-enbj73skaed2lsu40gonmj1dgdgu5o0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:contentDescription="@string/logo"
+        android:src="@drawable/logo3"
+        android:text="@string/viewSlogan" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/btn_first_game"
+            android:layout_width="100dp"
+            android:layout_height="0dp"
+            android:src="@drawable/game_operations"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:id="@+id/btn_second_game"
+            android:layout_width="100dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:src="@drawable/game_highorlow"/>
+
+        <ImageView
+            android:id="@+id/btn_third_game"
+            android:layout_width="100dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:src="@drawable/game_reverse"/>
+    </LinearLayout>
+
+</LinearLayout>
